@@ -14,16 +14,24 @@ Vidyaverse delivers personalized lessons and quizzes in multiple Indian language
 # Key Features:
 
 • Adaptive learning engine personalized for each student
+
 • Multilingual support (English, Hindi, plus regional languages)
+
 • Offline-first design for low/no internet connectivity
+
 • Accessibility features: text-to-speech, speech-to-text, easy interface
+
 • Teacher dashboard for monitoring student performance
 
 # Tech Stack:
 • Programming Language: Python
+
 • Web Framework: Flask
+
 • Frontend: HTML, CSS, JavaScript (mobile-friendly)
+
 • AI APIs: OpenAI GPT for content generation and tutoring, Whisper for speech recognition
+
 • Offline Storage: SQLite/IndexedDB for progress tracking
 
 Deployment: Progressive Web App (PWA) or Android app (future scope)
