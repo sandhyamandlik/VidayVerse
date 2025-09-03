@@ -1,4 +1,4 @@
-# VidayVerse
+# VidyaVerse
 
 Vidyaverse - Adaptive Multilingual AI Learning Assistant
 
